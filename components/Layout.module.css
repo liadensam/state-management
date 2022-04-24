@@ -1,0 +1,23 @@
+.header {
+    padding: 1rem;
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.link {
+    padding: 1rem .3rem;
+    color: rgb(58, 58, 58);
+    font-size: medium;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: color .3s ease-in-out;
+}
+
+.link:hover {
+    color: rgb(41, 145, 129);
+}
