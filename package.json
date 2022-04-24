@@ -1,5 +1,5 @@
 {
-  "name": "mastering-context",
+  "name": "state-management",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,9 @@
   "dependencies": {
     "next": "12.1.5",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "use-context-selector": "^1.3.10",
+    "zustand": "^4.0.0-rc.0"
   },
   "devDependencies": {
     "eslint": "8.14.0",

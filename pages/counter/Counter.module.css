@@ -1,0 +1,15 @@
+.wrapper {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    text-align: center;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+}
+
+.button {
+    padding: 1rem;
+}
+
+.counter {
+    margin-bottom: 1rem;
+}
