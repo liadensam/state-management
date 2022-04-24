@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import styles from './Counter.module.css'
+import styles from '../../styles/Counter.module.css'
 
 const Container = ({ children }) => (
 	<div>

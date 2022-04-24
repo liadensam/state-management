@@ -4,8 +4,8 @@ import {
     useAddToCart,
     useUser,
     useCartCount,
-  } from "./store-zustand";
-import styles from './Ecommerce.module.css'
+  } from "../../components/store-zustand";
+import styles from '../../styles/Ecommerce.module.css'
 
 const LoginSection = () => {
     const login = useLogin();

@@ -1,5 +1,5 @@
 import { useState, createContext, useContext } from 'react'
-import styles from './Counter.module.css'
+import styles from '../../styles/Counter.module.css'
 
 const CounterContext = createContext(null);
 

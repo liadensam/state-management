@@ -1,5 +1,5 @@
 import { useReducer, createContext, useContext } from 'react'
-import styles from './Counter.module.css'
+import styles from '../../styles/Counter.module.css'
 
 const reducer = (state, action) => {
     switch (action.type) {

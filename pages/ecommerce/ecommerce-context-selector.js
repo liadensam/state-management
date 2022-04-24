@@ -5,8 +5,8 @@ import {
     useUser,
     useCartCount,
     StoreContextProvider
-  } from "./store-context-selector";
-import styles from './Ecommerce.module.css'
+  } from "../../components/store-context-selector";
+import styles from '../../styles/Ecommerce.module.css'
 
 const LoginSection = () => {
     const login = useLogin();
