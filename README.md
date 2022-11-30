@@ -8,10 +8,11 @@ For this project I followed [this tutorial](https://www.youtube.com/watch?v=MpdF
 
 #### [`Live Site`](https://state-management-exercises.vercel.app/)
 
+
 <br>
 
 
-Each `solution` is placed in its folder in the code structure, either _counter_ or _ecomerce_. The usage is demonstrated with a counter, cart or login and logout functions.
+Each solution is placed in its folder in the code structure, either `counter` or `ecomerce`. The usage is demonstrated with a counter, cart or login and logout functions.
 
 <br>
 
