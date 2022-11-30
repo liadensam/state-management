@@ -6,7 +6,7 @@ const Layout = () => {
     <header className={styles.header}>
         <nav className={styles.nav}>
             <Link href="/">
-                <a className={styles.link}>Home</a>
+                <a className={styles.link}>State management</a>
             </Link>
             <Link href="/counter/counter-use-state">
                 <a className={styles.link}>useState</a>
