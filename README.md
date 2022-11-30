@@ -1,17 +1,29 @@
 # State Management
 
-For this project I went through [this tutorial](https://www.youtube.com/watch?v=MpdFj8MEuJA&ab_channel=JackHerrington), that shows many ways to manage state, by using useState, useReducer, Context and other third party solutions. Each solution has its own page that is either in the folder "counter" or "ecommerce", showing the use of state with a counter or cart and a login/logout function.  
+For this project I followed [this tutorial](https://www.youtube.com/watch?v=MpdFj8MEuJA&ab_channel=JackHerrington). It is a walkthrough of different ways how to manage state in React. We want to avoid [prop-drilling](https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/). It covers useState, useReducer, Context and other third party solutions such as [zustand](https://www.npmjs.com/package/zustand) and [context-selector](https://www.npmjs.com/package/context-selector). 
 
-### [Live Site](https://state-management-tau.vercel.app/)
+
+<br>
+
+
+**##### [Live Site](https://state-management-exercises.vercel.app/)**
+
+<br>
+
+
+Each solution is placed in its folder in the code structure, either _counter_ or _ecomerce_. The usage is demonstrated with a counter, cart or login and logout functions.
+
+<br>
+
+<img src="/assets/folder-structure.jpg" height="400">
+
+<br>
+
  
 <br>
  
-The third party solutions used are:
-- [zustand](https://www.npmjs.com/package/zustand)
-- [context-selector](https://www.npmjs.com/package/context-selector)
+
 
 <br>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-# state-management
-# state-management
