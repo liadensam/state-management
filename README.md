@@ -6,7 +6,7 @@ For this project I followed [this tutorial](https://www.youtube.com/watch?v=MpdF
 <br>
 
 
-** ##### [Live Site](https://state-management-exercises.vercel.app/) **
+##### [Live Site](https://state-management-exercises.vercel.app/)
 
 <br>
 
@@ -17,13 +17,8 @@ Each solution is placed in its folder in the code structure, either _counter_ or
 
 <img src="/assets/folder-structure.png" height="400">
 
-<br>
-
- 
-<br>
- 
-
 
 <br>
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
