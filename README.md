@@ -6,7 +6,7 @@ For this project I followed [this tutorial](https://www.youtube.com/watch?v=MpdF
 <br>
 
 
-##### [Live Site](https://state-management-exercises.vercel.app/)
+#### [`Live Site`](https://state-management-exercises.vercel.app/)
 
 <br>
 
